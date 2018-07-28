@@ -40,4 +40,13 @@
         android:text="Name"
         tools:layout_editor_absoluteX="74dp"
         tools:layout_editor_absoluteY="55dp" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/textView1"
+        android:layout_marginBottom="61dp"
+        android:text="Button" />
 </RelativeLayout>
